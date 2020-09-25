@@ -60,6 +60,7 @@ Check CPU Utilization using TOP command
   Its scaleup instances as per condition again reducing the CPU Utilization using below command
   
   for i in 1 2 3 4; do kill %$i; done
+  
   It's scaledown instances as per condition 
   
   
