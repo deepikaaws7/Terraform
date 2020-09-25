@@ -14,4 +14,23 @@ Pre-Requisites:
 
 # Clone the code from github
 
-https://github.com/deepikaaws7/Terraform
+     https://github.com/deepikaaws7/Terraform.git
+     cd terraform-cpumetricsautoscaling
+
+# Initialise the Terraform:
+
+   - terraform init
+   
+   
+# Plan:
+
+  - terraform plan
+  
+# Apply
+  
+  - terraform apply
+  
+ # Check ELB comes to InService or not
+ 
+ 
+
