@@ -54,7 +54,7 @@ Verifying the CPU utilization
 
 Check CPU Utilization using TOP command
 
-  top
+  - top
   
   
   Its scaleup instances as per condition again reducing the CPU Utilization using below command
@@ -66,5 +66,5 @@ Check CPU Utilization using TOP command
   
 # CleanUp:
 
-  terraform destroy
+  - terraform destroy
   
