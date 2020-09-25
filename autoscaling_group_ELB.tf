@@ -8,7 +8,7 @@ resource "aws_autoscaling_group" "agents" {
     // Max size has taken 4 and Min size 2
     max_size = "4"
     min_size = "2"
-    /* health check grace period taken 300 
+    // health check grace period taken 300 
     health_check_grace_period = 300
     health_check_type = "EC2"
     desired_capacity = 2
