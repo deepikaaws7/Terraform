@@ -30,7 +30,7 @@ Pre-Requisites:
   
   - terraform apply
   
- # Check ELB comes to InService or not
+ # Checking the ELB comes to InService or not
  
  
 
