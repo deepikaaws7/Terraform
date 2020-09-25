@@ -40,5 +40,5 @@ Pre-Requisites:
 
  # Verifying the URL is working or not
  
- ![index](https://user-images.githubusercontent.com/71882019/94287703-8a3ce500-ff4e-11ea-8ea7-527e32431d13.png)
+ ![Load_balancer_verify](https://user-images.githubusercontent.com/71882019/94288010-dab44280-ff4e-11ea-8adc-cb6c519cbd06.png)
 
