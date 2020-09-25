@@ -41,4 +41,29 @@ Pre-Requisites:
  # Verifying the URL is working or not
  
  ![Load_balancer_verify](https://user-images.githubusercontent.com/71882019/94288010-dab44280-ff4e-11ea-8adc-cb6c519cbd06.png)
+ 
 
+
+Goto Autoscaling group verifying autoscaling conditions attached or not 
+
+After that increasing CPU Utilization using below command
+
+   - for i in 1 2 3 4; do while : ; do : ; done & done
+   
+Verifying the CPU utilization
+
+Check CPU Utilization using TOP command
+
+  top
+  
+  
+  Its scaleup instances as per condition again reducing the CPU Utilization using below command
+  
+  for i in 1 2 3 4; do kill %$i; done
+  It's scaledown instances as per condition 
+  
+  
+# CleanUp:
+
+  terraform destroy
+  
