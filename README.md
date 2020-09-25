@@ -7,7 +7,7 @@
 
 ##Autoscaling based on condition of CPU Utilization
 
-#####Pre-Requisites:
+Pre-Requisites:
 
 -   Install Terraform(v0.12)
 -   Install Git
