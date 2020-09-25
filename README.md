@@ -11,3 +11,7 @@ Pre-Requisites:
 
 -   Install Terraform(v0.12)
 -   Install Git
+
+# Clone the code from github
+
+https://github.com/deepikaaws7/Terraform
