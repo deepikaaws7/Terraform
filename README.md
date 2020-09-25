@@ -34,7 +34,6 @@ Pre-Requisites:
  
   ![ELB](https://user-images.githubusercontent.com/71882019/94287299-04209e80-ff4e-11ea-9300-d9802124732a.png)
  
-    ELB](https://user-images.githubusercontent.com/71882019/94286542-0cc4a500-ff4d-11ea-9aae-024089146fa6.png)
     
    AWS load balancer details added 
    
