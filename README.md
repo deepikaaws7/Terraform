@@ -1,6 +1,6 @@
 # Terraform
 
-## Terraform90oe Technical Assignment
+
 
 ###Terraform code for EC2 deploy an EC2 instance, running within ASG with ELB
 
