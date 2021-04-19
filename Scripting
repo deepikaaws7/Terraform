@@ -1,0 +1,5 @@
+Create a configuration file and add your details_key
+echo "details_key: 567890123" | sudo tee -a /etc/temp-infra.yml
+
+# Create the agent’s yum repository 
+sudo curl -o "/etc/yum.repos.d/gitlab-repo" "https://download./linux/yum/el/7/x86_64/infra.repo"
